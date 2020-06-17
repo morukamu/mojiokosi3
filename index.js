@@ -15,7 +15,7 @@ p.innerText =
 burogu.appendChild(p);
 
 const h2_2 = document.createElement('h2');
-h2_2.innerText = '奨励金精度が後押し';
+h2_2.innerText = '奨励金制度が後押し';
 burogu.appendChild(h2_2);
 
 const p_2 = document.createElement('p');
